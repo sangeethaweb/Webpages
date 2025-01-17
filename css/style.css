@@ -1,0 +1,19 @@
+.head{
+color: blue;
+font-size:x-large;
+font-weight:bolder ;
+text-align: center;
+}
+.head2{
+    color:red;
+    font-size:medium;
+    font-weight:bolder ;
+    text-align: center;
+    }
+        .log{
+        margin-left:8cm;
+        margin-right:8cm;
+        margin-top:2cm;
+        margin-bottom:2cm;
+        }
+}
